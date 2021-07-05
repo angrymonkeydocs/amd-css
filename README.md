@@ -1,4 +1,4 @@
-# AMD CSS | Angry Monkey Docs CSS Naming Convention
+# Angry Monkey Docs CSS Naming Convention
 
 ## Main concerns
 
